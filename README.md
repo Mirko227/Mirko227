@@ -1,4 +1,4 @@
-## I'm Mirko I strive to improve myself every day.
+## I'm Mirko Bellopede I strive to improve myself every day.
 
 # Reach me:
 dev@mirkobellopede.com
