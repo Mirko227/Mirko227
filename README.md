@@ -1,6 +1,6 @@
 ## I'm Mirko Bellopede I strive to improve myself every day.
 
-**Reach me: **
+**Reach me:** 
 dev@mirkobellopede.com
 
 <!--
