@@ -1,4 +1,7 @@
-## Hi there 👋
+## I'm Mirko I strive to improve myself every day.
+
+# Reach me:
+dev@mirkobellopede.com
 
 <!--
 **Mirko227/Mirko227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
